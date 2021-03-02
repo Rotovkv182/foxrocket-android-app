@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Students Counter</string>
+    <string name="txt_students">students</string>
+    <string name="btn_students">Add Student</string>
+</resources>
